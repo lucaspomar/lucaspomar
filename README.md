@@ -1,9 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Lucas Detogni</h1>
-<h3 align="center">Um estudante de Ciência da Computação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukemil1000&label=Visualiza%C3%A7%C3%B5es&color=48b14a&style=flat" alt="lukemil1000" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Spring**
+- 🌱 Atualmente estou estudando **engenharia de dados**
 
 - 🧑 Pronomes: **Ele/Dele**
 
