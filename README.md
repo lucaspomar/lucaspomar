@@ -2,15 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukemil1000&label=Visualiza%C3%A7%C3%B5es&color=48b14a&style=flat" alt="lukemil1000" /> </p>
 
-- 🌱 Atualmente estou estudando **Django**
+- 🌱 Atualmente estou estudando **Django Rest Framework**
 
 - 🧑 Pronomes: **Ele/Dele**
 
 - 📫 Você pode entrar em contato comigo através de **lucaspomar@outlook.com**
 
-<h3 align="left">Minhas redes sociais:</h3>
+<br>
 <p align="left">
-<a href="https://linkedin.com/in/lucas detogni pomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas detogni pomar" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lucas-detogni-pomar" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
@@ -36,7 +36,7 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br&layout=compact" alt="lukemil1000" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br" alt="lukemil1000" /></p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br&layout=compact"  height="200" alt="lukemil1000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br"  height="200" alt="lukemil1000" />
+</div>
