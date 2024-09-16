@@ -36,7 +36,7 @@
   </a> 
 </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br&layout=compact"  height="200" alt="lukemil1000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br"  height="200" alt="lukemil1000" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br&layout=compact"  height="150" alt="lukemil1000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br"  height="150" alt="lukemil1000" />
 </div>
