@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Lucas</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukemil1000&label=Visualiza%C3%A7%C3%B5es&color=48b14a&style=flat" alt="lukemil1000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaspomar&label=Visualiza%C3%A7%C3%B5es&color=48b14a&style=flat" alt="lucaspomar" /> </p>
 
 - 🌱 Atualmente estou estudando **.NET**
 
@@ -32,6 +32,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br&layout=compact"  height="150" alt="lukemil1000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lukemil1000&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br"  height="150" alt="lukemil1000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaspomar&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br&layout=compact"  height="150" alt="lucaspomar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaspomar&show_icons=true&theme=tokyonight&title_color=48b14a&locale=pt-br"  height="150" alt="lucaspomar" />
 </div>
